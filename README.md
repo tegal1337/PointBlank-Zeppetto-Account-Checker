@@ -16,7 +16,7 @@ untuk rest api silahkan start script nya seperti diatas , lalu buka di browser
 
 ```bash
 > http://localhost:300/cek   <-- untuk cek biasa
-> http://localhost:300/premium-cek   <-- untuk premium cek
+> http://localhost:300/premium-cek   <-- untuk premium cek include ooint , rank , etc
 
 ```
 Script ini anti checkpoint
