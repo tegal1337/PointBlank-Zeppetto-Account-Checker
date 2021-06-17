@@ -19,10 +19,6 @@ untuk rest api silahkan start script nya seperti diatas , lalu buka di browser
 > http://localhost:300/premium-cek   <-- untuk premium cek
 
 ```
-Script ini anti checkpoint , jangan ganti author dong .. kan saya juga pengen terkenal mas :)
-
-Sukur sukur ente bisa donate ane 
-
-via Gopay : 089614737919
+Script ini anti checkpoint
 
 
