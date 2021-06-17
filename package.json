@@ -1,0 +1,22 @@
+{
+  "name": "pbcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.21.1",
+    "axios-cookiejar-support": "^1.0.1",
+    "cheerio": "^1.0.0-rc.6",
+    "express": "^4.17.1",
+    "html-to-text": "^7.1.1",
+    "node-fetch": "^2.6.1",
+    "query-string": "^7.0.0"
+  },
+
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abdul Muttaqin",
+  "license": "ISC"
+}
