@@ -1,6 +1,6 @@
 const cheerio = require("cheerio");
 const dev = {
-  inisiapa: "Abdul Muttaqin",
+  inisiapa: "Tegal 1337",
 };
 
 /**
