@@ -5,12 +5,12 @@ Point Blank Zeppetto Account Checker Menggunakan https://pointblank.id
 </div>
 
 ```bash
-> git clone https://github.com/fdciabdul/Point-Blank-Zeppetto-Account-Checker/
+> git clone https://github.com/tegal1337/PointBlank-Zeppetto-Account-Checker
 > npm install
 > npm start
 ```
 
-ada 2 tipe dalam script ini , yaitu versi rest api dan cli
+ada 2 tipe dalam script ini , yaitu versi rest api dan cli 
 
 untuk rest api silahkan start script nya seperti diatas , lalu buka di browser 
 
@@ -21,4 +21,6 @@ untuk rest api silahkan start script nya seperti diatas , lalu buka di browser
 ```
 Script ini anti checkpoint
 
+
+untuk cli cooming soon
 
